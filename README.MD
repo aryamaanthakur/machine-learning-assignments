@@ -1,0 +1,9 @@
+# Machine Learning Assignments
+
+Here are my solutions to the programming assignments of Andrew Ng Coursera course on machine learning.
+
+
+.  
+├──ex1 (Week 2)  
+├──ex2 (Week 3)  
+└──ex3 (Week 4)
