@@ -8,4 +8,5 @@ Here are my solutions to the programming assignments of Andrew Ng Coursera cours
 ├──ex2 (Week 3)  
 ├──ex3 (Week 4)  
 ├──ex4 (Week 5)
-└──ex5 (week 6)
+├──ex5 (Week 6)
+└──ex6 (Week 7)
